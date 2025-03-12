@@ -1,0 +1,9 @@
+,region,country,cars_per_cap,drives_right
+USCA,US,United States,809.0,False
+ASPAC,AUS,Australia,731.0,True
+ASPAC,JAP,Japan,588.0,True
+ASPAC,IN,India,18.0,True
+ASPAC,RU,Russia,200.0,False
+LATAM,MOR,Morocco,70.0,False
+AFR,EG,Egypt,45.0,False
+EUR,ENG,England,,True
